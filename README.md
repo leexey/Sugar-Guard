@@ -1,3 +1,3 @@
 # Suggar-Guard
 
-Suggar Guard .net obfuscator leak
+Suggar Guard private .net obfuscator leak
